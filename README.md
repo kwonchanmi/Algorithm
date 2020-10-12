@@ -1,12 +1,6 @@
 # Algorithm
 
-This repository is a collection of my algorithm solutions.
 
-These are the solutions to the Baekjoon Online Judge and Codeforces problems.
-
-If you want an explanation of my solution, you can see it on my blog.
-
-Thank you 😄:)
 
 ### Baekjoon Online Judge Tier
 
@@ -18,5 +12,5 @@ Thank you 😄:)
 
 ### Blog
 
-[KR/Tistory](https://kwoncorin.tistory.com/)
+[Tistory](https://kwoncorin.tistory.com/)
 
