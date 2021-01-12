@@ -8,7 +8,7 @@
 
 ### Codeforces Rating
 
-<img width='50%' src='https://pruvi007-apis.herokuapp.com/CF/jatoehallaeng' />
+<img width='50%' src='https://pruvi007-apis.herokuapp.com/CF/kwoncorin' />
 
 ### Blog
 
